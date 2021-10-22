@@ -43,10 +43,10 @@ A template for react native app (CLI)
 - Create Android Virtual Device (AVD): Configure -> AVD Manager -> Create virtual device... -> Select Pixel 2 or 3 and click Next ->
   Tab x86 Images -> Select "Q" -> Next -> Finish -> click on play icon
 
-## Create & Start App
+## Start App
 
-1. npx react-native init Nom_du_projet
-2. cd Nom_du_projet -> npx react-native start
-3. npx react-native run-android
+1. npm i
+2. npx react-native start
+3. npx react-native run-android (another shell)
 
 Official document : https://reactnative.dev/docs/getting-started
